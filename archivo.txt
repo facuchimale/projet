@@ -1,2 +1,1 @@
-HOLA , ESTE ES MI PRIMER ARCHIVO EN GIT.
-cambio en la rama.
+Cambios desde la máquina clonada
